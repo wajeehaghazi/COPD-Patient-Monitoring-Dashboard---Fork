@@ -1,8 +1,8 @@
 [[local-agent]]
-path = "coral-server/agents/interface"
+path = "agents/interface"
 
 [[local-agent]]
-path = "coral-server/agents/environment-monitor"
+path = "agents/environment-monitor"
 
 [[local-agent]]
-path = "coral-server/agents/personal_health_coach"
+path = "agents/personal_health_coach"
